@@ -21,3 +21,4 @@ chmod +x shadowsocks.sh
 (Default port:11260):11260
 - Select aes-256-cfb
 ## Congratulations，Shadowsocks-Python server install completed! 
+
