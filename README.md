@@ -1,4 +1,4 @@
-# shadowsocks_install
+# Shadowsocks_install
 ## Step1
 ```
 yum -y install wget
