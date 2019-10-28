@@ -45,7 +45,7 @@ Intro: https://shadowsocks.be/6.html
 Description: Auto Install ShadowsocksR Server for CentOS/Debian/Ubuntu
 Intro: https://shadowsocks.be/9.html
 ``` 
-# haproxy.sh
+# shadowsocks-haproxy.sh
 ``` 
 Description: Auto Install haproxy for Shadowsocks Server
 Intro: https://shadowsocks.be/10.html
