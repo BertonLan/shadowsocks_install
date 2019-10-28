@@ -1,5 +1,6 @@
 ![Shadowsocks](https://github.com/BertonLan/shadowsocks_install/raw/master/shadowsocks.png)
 # Shadowsocks install
+### Description: Auto Install Shadowsocks Server (all version) for CentOS/Debian/Ubuntu
 ## Step1
 ```
 yum -y install wget
