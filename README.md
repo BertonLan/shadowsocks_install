@@ -23,30 +23,29 @@ chmod +x shadowsocks.sh
 4. Select aes-256-cfb
 ```
 ## Congratulations，Shadowsocks-Python server install completed!  
-
-# shadowsocks-libev.sh
+- # shadowsocks-libev.sh
 ``` 
 Description: Auto Install Shadowsocks(libev) Server for CentOS
 ```
-# shadowsocks-libev-debian.sh
+- # shadowsocks-libev-debian.sh
 ``` 
 Description: Auto Install Shadowsocks(libev) Server for Debian/Ubuntu
 ```
-# shadowsocks-go.sh
+- # shadowsocks-go.sh
 ``` 
 Description: Auto Install Shadowsocks(Go) Server for CentOS/Debian/Ubuntu
 ```
-# shadowsocks-crond.sh
+- # shadowsocks-crond.sh
 ``` 
 Description: Check Shadowsocks(All version) Server is running or not, and start it if not running
 Intro: https://shadowsocks.be/6.html
 ```
-# shadowsocksR.sh
+- # shadowsocksR.sh
 ``` 
 Description: Auto Install ShadowsocksR Server for CentOS/Debian/Ubuntu
 Intro: https://shadowsocks.be/9.html
 ``` 
-# shadowsocks-haproxy.sh
+- # shadowsocks-haproxy.sh
 ``` 
 Description: Auto Install haproxy for Shadowsocks Server
 Intro: https://shadowsocks.be/10.html
