@@ -1,3 +1,4 @@
+![Shadowsocks](https://github.com/BertonLan/shadowsocks_install/raw/master/shadowsocks.png)
 # Shadowsocks install
 ## Step1
 ```
