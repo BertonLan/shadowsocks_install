@@ -2,7 +2,7 @@
 #=================================================================#
 #   System Required:  CentOS, Debian, Ubuntu                      #
 #   Description: Check Shadowsocks Server is running or not       #
-#   Author: BertonLan <Berton_Lan@sina.com>                             #
+#   Author: BertonLan <Berton_Lan@sina.com>                       #
 #   Visit: https://shadowsocks.be/6.html                          #
 #=================================================================#
 

@@ -4,17 +4,17 @@ export PATH
 #=================================================================#
 #   System Required:  CentOS, Debian, Ubuntu                      #
 #   Description: One click Install Shadowsocks-go server          #
-#   Author: BertonLan <Berton_Lan@sina.com>                             #
+#   Author: BertonLan <Berton_Lan@sina.com>                       #
 #   Thanks: @cyfdecyf <https://twitter.com/cyfdecyf>              #
-#   Intro:  https://github.com/BertonLan                         #
+#   Intro:  https://github.com/BertonLan                          #
 #==================================================================
 
 clear
 echo
 echo "#############################################################"
 echo "# One click Install Shadowsocks-go server                   #"
-echo "# Intro: https://github.com/BertonLan                     #"
-echo "# Author: BertonLan <Berton_Lan@sina.com>                         #"
+echo "# Intro: https://github.com/BertonLan                       #"
+echo "# Author: BertonLan <Berton_Lan@sina.com>                   #"
 echo "# Github: https://github.com/shadowsocks/shadowsocks-go     #"
 echo "#############################################################"
 echo
